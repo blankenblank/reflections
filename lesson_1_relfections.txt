@@ -1,0 +1,11 @@
+The diff between two versions allowed me to quickly find what I had changed from the version that I was working on and the older version without spending a lot of time going through and looking at each individual line of code. It was very useful.
+EVery time a change is made make sure to save a new version
+The pros would be that you have control over when to commit
+the cons would be that sometimes you don't commit enough
+Repository- multiple files that you want to track together
+-- stat gives information about all the files that have changed in a commit
+Git allows saving multiple files in one commit because it is designed to help programmers working with multiple files keep track of the changes they have made for easy debugging
+git log allows you to see the commits and the labels for each
+git diff allows you to see lines that have been added or removed in red or green respectively
+git checkout allows you to run a previous commit to see if it has the same error as the current commit
+Using version control would make you more confident because you are able to easily revert to an older state if you make a mistake

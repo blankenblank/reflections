@@ -1,0 +1,2 @@
+When you initialize a repository it sets up a hidden folder call .git to store commits and metadata
+The staging are allows you to set up the files to be used in your workign directory which are contained in a repository
